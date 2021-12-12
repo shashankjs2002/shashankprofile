@@ -1,0 +1,51 @@
+{
+	"basics": {
+		"name": "Shashank J. Sirothiya",
+		"label": "Student",
+		"picture": "https://github.com/shashankjs2002/shashankprofile/blob/main/Photo%201.png?raw=true",
+		"email": "2020kucp1126@iiitkota.ac.in",
+		"phone": "8269884717",
+		"website": "",
+		"summary": "I am Shashank J. Sirothiya. I am pursuing Computer Science and Engineering. I like Programming, Web Development and always try to learn new things.",
+		"location": {
+			"postalCode": "474003",
+			"city": "Gwalior",
+			"countryCode": "India",
+			"region": "Madhya Pradesh"
+		},
+		
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "Shashank J. Sirothiya",
+				"url": "https://www.github.com/<shashankjs2002/shashankprofile"
+			},
+			{
+				"network": "linkedin",
+				"username": "Shashank J. Sirothiya",
+				"url": "https://www.linkedin.com/in/shashank-j-sirothiya-30b33a223/"
+			}
+			
+		]
+	},
+	
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2021-02-12 //Date",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS","Bootstrap","Node","Express", "Javascript", "React", "C/C++", "Python"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Chess"]
+	}]
+	
+}
